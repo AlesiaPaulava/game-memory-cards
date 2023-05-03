@@ -1,7 +1,7 @@
 # game-memory-cards
 <h1 align="center">Игра "Найди пару" на JS</h1>
 
-Просмотреть проект можно на GitHub Pages по ссылке: https://github.com/AlesiaPaulava/game-memory-cards
+Просмотреть проект можно на GitHub Pages по ссылке: https://alesiapaulava.github.io/game-memory-cards/
 
 <h2 align="left">Описание проекта</h2>
 
