@@ -46,7 +46,7 @@ h1 {
   justify-content: center;
   width: 150px;
   height: 150px;
-  background-image: url('img/card.jpg');
+  background-image: url(../img/card.jpg);
   background-position: center;
   color: transparent;
   box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.2);
